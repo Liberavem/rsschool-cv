@@ -4,7 +4,7 @@
 **Phone number:** +375(29)227-37-62  
 **Email address:** natalie.smirnowa@gmail.com  
 **Skype:** nattalia_smirnova  
-**LinkedIn:** natalia-smirnova-b0268bba  
+**LinkedIn:** natalia-smirnova-minsk  
 **Summary:** 
 - Good communication skills with the ability to communicate effectively across multiple groups
 - Ability to work in a team environment and deliver results under reasonable stress
