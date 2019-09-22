@@ -1,10 +1,10 @@
 
 # Natalia Smirnova
 ### Personal info
-**Phone number:** +375(29)227-37-62
-**Email address:** natalie.smirnowa@gmail.com
-**Skype:** nattalia_smirnova
-**LinkedIn:** natalia-smirnova-b0268bba
+**Phone number:** +375(29)227-37-62  
+**Email address:** natalie.smirnowa@gmail.com  
+**Skype:** nattalia_smirnova  
+**LinkedIn:** natalia-smirnova-b0268bba  
 **Summary:** 
 - Good communication skills with the ability to communicate effectively across multiple groups
 - Ability to work in a team environment and deliver results under reasonable stress
@@ -12,7 +12,7 @@
 - Ability to multi-task with high attention to detail and solve problems in a timely manner
 - Good analytical, problem solving and organizational skills
 
-**Skills:** HTML, CSS, Javascript
+**Skills:** HTML, CSS, Javascript  
 **Code examples:**
 ```
 let obj = {
@@ -23,8 +23,8 @@ let obj = {
 
 alert( obj.for + obj.let + obj.return );  // 6
 ```
-**Experience:** 
-[Project](https://drive.google.com/open?id=1pYtbww_VvJD3-liaa_s2DSh6QCZ8l5QS)
+**Experience:**  
+[Project](https://drive.google.com/open?id=1pYtbww_VvJD3-liaa_s2DSh6QCZ8l5QS)  
 **Education:**
 
 
